@@ -1,0 +1,38 @@
+.headDivGlobal {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 150px;
+    border:  2px outset;
+}
+
+.headDiv {
+    margin: 15px ;
+    
+}
+
+.div2 {
+   
+   margin-top: 7px;
+}
+
+.inputs {
+    width: 212px;
+}
+
+.btns {
+    width: 70px;
+}
+
+.gray {
+    background-color: rgb(156, 154, 154);
+}
+
+.exchangeBtn {
+    width: 100%;
+    margin-top: 7px;
+    background-color: rgb(132, 216, 177);
+}
+
+
